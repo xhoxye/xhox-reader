@@ -1,0 +1,1 @@
+Nothing should be ignored in this case, as the only added file is a user script (.user.js) which appears to be source code rather than a build artifact or temporary file.
